@@ -20,11 +20,11 @@
     <div>
       <samp>
         <p align="center">
-          <img src="https://img.shields.io/badge/Java-1e1e2e?&style=for-the-badge&logo=Java&logoColor=cba6f7"/>
-            <img src="https://img.shields.io/badge/Maven-1e1e2e?&style=for-the-badge&logo=Maven&logoColor=cba6f7"/>
-            <img src="https://img.shields.io/badge/Apache%20HttpClient-1e1e2e?&style=for-the-badge&logoColor=cba6f7"/>
-            <img src="https://img.shields.io/badge/Scanner-1e1e2e?&style=for-the-badge&logoColor=cba6f7"/>
-            <img src="https://img.shields.io/badge/Maps-1e1e2e?&style=for-the-badge&logoColor=cba6f7"/>
+          <img src="https://img.shields.io/badge/Java-1e1e2e?&style=for-the-badge&logo=openjdk&logoColor=cba6f7"/>
+          <img src="https://img.shields.io/badge/Maven-1e1e2e?&style=for-the-badge&logo=maven&logoColor=cba6f7"/>
+          <img src="https://img.shields.io/badge/Apache%20HttpClient-1e1e2e?&style=for-the-badge&logoColor=cba6f7"/>
+          <img src="https://img.shields.io/badge/Jsoup-1e1e2e?&style=for-the-badge&logoColor=cba6f7"/>
+          <img src="https://img.shields.io/badge/Docker-1e1e2e?&style=for-the-badge&logo=docker&logoColor=cba6f7"/>
         </p>
       </samp>
     </div>
