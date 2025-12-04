@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: text-counter-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: text-counter
+  template:
+    metadata:
+      labels:
+        app: text-counter
+    spec:
+      containers:
+      - name: text-counter
+        image: text-counter-java:latest
+        imagePullPolicy: IfNotPresent
+        stdin: true
+        tty: true
