@@ -1,10 +1,3 @@
-<p align="center">👋 Hey! I'm Samuel Vitor, a Brazilian programmer.</p>
-<p align="center"><a href="https://twitter.com/samuell_vitoorr"><img src="https://img.shields.io/badge/X-742273?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
-<a href="https://www.linkedin.com/in/samuel-vitor-362713214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-742273?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href="https://www.instagram.com/samuell_vitoorr?igsh=MXc0ZXViZGxuNWR3eA=="><img src="https://img.shields.io/badge/instagram-742273?style=for-the-badge&logoColor=F2F2F2&logo=instagram"/></a>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 # **Aplicacao java para contar palavra e frases**
 
 :link: Aplicativo Java simples para contar as ocorrências de uma palavra ou frase em uma página web.
